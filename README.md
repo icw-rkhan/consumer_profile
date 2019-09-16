@@ -20,7 +20,7 @@ This HATEOAS Driven REST-3 APIs application. I developed this project as part of
 
 
 -------
-**Core Application Flow Diagram**:
+**API-Endpoints**:
 
 |Method                |API                            |Description                         |
 |----------------|-------------------------------|-----------------------------|
